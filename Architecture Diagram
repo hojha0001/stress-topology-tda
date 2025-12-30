@@ -1,0 +1,35 @@
+## System Architecture
+
+Raw Wearable Signals (EDA / HRV)
+            |
+            v
+   Signal Preprocessing
+ (Detrending, Normalization)
+            |
+            v
+   Sliding Window Segmentation
+        (256 samples)
+            |
+            v
+ High-Dimensional Feature Space
+      (Physiological States)
+            |
+            v
+   Dimensionality Reduction
+          (PCA Lens)
+            |
+            v
+   Topological Covering
+      (Hypercubes)
+            |
+            v
+   Local Clustering
+        (DBSCAN)
+            |
+            v
+  Topological Stress Graph
+ (States + Transitions)
+            |
+            v
+ Interactive Visualization
+   (stress_topology.html)
