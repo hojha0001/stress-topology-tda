@@ -1,0 +1,29 @@
+🔬 Problem Framing
+
+“Stress is a dynamic physiological phenomenon, not a static label. Traditional ML models collapse this complexity.”
+
+🧪 Hypothesis
+
+“Latent stress states and recovery dynamics can be discovered by analyzing the shape and connectivity of biometric time-series data.”
+
+⚙️ Method
+
+No labels used
+
+No thresholds used
+
+No stress score predicted
+
+Only structure discovery
+
+📊 Results
+
+Identified stable and transitional physiological states
+
+Observed recurrent topological loops
+
+Captured stress-recovery bridges ignored by classifiers
+
+🚀 Contribution
+
+“This project demonstrates how Topological Data Analysis can uncover clinically and behaviorally meaningful stress patterns without supervision.”
